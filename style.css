@@ -19,6 +19,7 @@ body
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: 'Sofia', cursive;
+    overflow: hidden;
 }
 .box{
   width: 450px;
